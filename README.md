@@ -1,3 +1,4 @@
+![Screenshot (9)](https://github.com/Manjukr089/File-upload-view-delete-using-ReactJS/assets/95536866/a59a1e51-451f-4666-ba44-c42c7e3a23d6)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
