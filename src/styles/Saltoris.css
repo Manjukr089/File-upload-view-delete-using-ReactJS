@@ -1,0 +1,107 @@
+.salto_home{
+    margin-top: -20px;
+}
+.form-group {
+    margin-top: -10px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
+
+.one,
+.two,
+.third_one,
+.third_two {
+    width: 100%;
+    margin: 10px 0px 0px 40px;
+}
+
+.first,
+.third {
+    display: flex;
+}
+
+label {
+    width: 50%;
+    margin: 10px 0px;
+}
+
+input[type="text"],
+input[type="number"],
+input[type="date"] {
+    width: 90%;
+    height: 30px;
+    margin: 5px 0px 15px;
+    border-radius: 4px;
+    border: 1px;
+}
+
+textarea {
+    border: 1px;
+    border-radius: 10px;
+}
+
+.second,
+.second_second {
+    display: flex;
+}
+
+.second_one,
+.second_third {
+    width: 100%;
+    /* padding-right: 100px; */
+    margin: 10px 10px 0px 40px;
+}
+
+.second_two,
+.second_forth {
+    width: 3000px;
+    margin: 10px 30px 0px 0px;
+}
+
+input[type="radio"] {
+    margin-top: 8px;
+}
+
+.ending {
+    border-radius: 10px;
+    background-color: whitesmoke;
+    display: flex;
+    /* justify-content: space-around; */
+    align-items: center;
+    margin: 10px 0px;
+}
+
+.file-actions {
+    position: absolute;
+    left: 1000px;
+    border: none;
+    color: burlywood;
+    /* margin: 10px; */
+}
+
+.file-actions button {
+    margin: 10px;
+}
+
+#view:hover {
+    color: blue;
+}
+
+#trash {
+    color: coral;
+} 
+
+#trash:hover {
+    color: red;
+}
+.footer{
+    display: flex;
+    justify-content: right;
+    margin-right: 50px;
+}
+.footer  button{
+    padding: 6px 140px;
+    background-color:orange;
+    border: none;
+    border-radius: 5px;
+}
